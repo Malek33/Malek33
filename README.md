@@ -5,16 +5,16 @@
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 </p>
-<br></br>
+
 <p align="center">
-  <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malek33" alt="malek33" /></a>
 </p>
-<br></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malek33&label=Profile%20views&color=0e75b6&style=flat" alt="malek33" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malek33" alt="malek33" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/malek_maghraoui" target="blank"><img src="https://img.shields.io/twitter/follow/malek_maghraoui?logo=twitter&style=for-the-badge" alt="malek_maghraoui" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/malek_maghraoui" target="blank"><img src="https://img.shields.io/twitter/follow/malek_maghraoui?logo=twitter&style=for-the-badge" alt="malek_maghraoui" /></a>
+  <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
+  <img src="https://komarev.com/ghpvc/?username=malek33&label=Profile%20views&color=0e75b6&style=flat" alt="malek33" />
+</p>
 
 - 🔭 I’m currently working on [Social media App](https://github.com/Malek33/social-media.git)
 

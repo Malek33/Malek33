@@ -51,3 +51,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malek33&show_icons=true&locale=en" alt="malek33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malek33&" alt="malek33" /></p>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>

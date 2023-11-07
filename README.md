@@ -47,7 +47,7 @@
 
 
  <div align="center">
-    <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek33&show_icons=true&locale=en&layout=compact" alt="malek33" />
-    &nbsp;<img valign="top" src="https://github-readme-stats.vercel.app/api?username=malek33&show_icons=true&locale=en" alt="malek33" />
+    <img valign="top" src="https://github-readme-stats.vercel.app/api?username=malek33&show_icons=true&locale=en" alt="malek33" />
     <img valign="top" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malek33&" alt="malek33" />
+    <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek33&show_icons=true&locale=en&layout=compact" alt="malek33" />
  </div>

@@ -46,8 +46,8 @@
 <p><a href="https://www.buymeacoffee.com/malekmaghraoui"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="malekmaghraoui" /></a><a href="https://ko-fi.com/malekmaghraoui"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="malekmaghraoui" /></a></p><br><br>
 
 
- <div align="center">
-    <img valign="top" src="https://github-readme-stats.vercel.app/api?username=malek33&show_icons=true&locale=en" alt="malek33" />
-    <img valign="top" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malek33&" alt="malek33" />
-    <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek33&show_icons=true&locale=en&layout=compact" alt="malek33" />
- </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek33&show_icons=true&locale=en&layout=compact" alt="malek33" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malek33&show_icons=true&locale=en" alt="malek33" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malek33&" alt="malek33" /></p>

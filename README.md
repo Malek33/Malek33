@@ -46,10 +46,12 @@
 <p><a href="https://www.buymeacoffee.com/malekmaghraoui"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="malekmaghraoui" /></a><a href="https://ko-fi.com/malekmaghraoui"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="malekmaghraoui" /></a></p><br><br>
 
 
-<table valign="center">
+<p align="center">
+ <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=malek33&show_icons=true&locale=en&layout=compact" alt="malek33" /></td>
     <td valign="top">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=malek33&show_icons=true&locale=en" alt="malek33" /></td>
   </tr>
-</table>
+ </table>
+</p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malek33&" alt="malek33" /></p>

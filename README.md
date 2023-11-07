@@ -51,7 +51,7 @@
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=malek33&show_icons=true&locale=en&layout=compact" alt="malek33" /></td>
     <td valign="top">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=malek33&show_icons=true&locale=en" alt="malek33" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malek33&" alt="malek33" /></td>
   </tr>
  </table>
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malek33&" alt="malek33" /></p>

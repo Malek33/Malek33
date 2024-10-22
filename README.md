@@ -17,13 +17,13 @@
 
 - 🔭 I’m currently working on [Social media App](https://github.com/Malek33/social-media.git)
 
-- 👨‍💻 All of my projects are available at [https://malek-profile.netlify.app](https://malek-profile.netlify.app)
+- 👨‍💻 All of my projects are available at [https://malek-maghraoui.netlify.app](https://malek-maghraoui.netlify.app)
 
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **malek.magraoui3@gmail.com**
 
-- 📄 Know about my experiences [https://malek-profile.netlify.app/#about](https://malek-profile.netlify.app/#about)
+- 📄 Know about my experiences [https://malek-maghraoui.netlify.app/#about](https://malek-maghraoui.netlify.app/#about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
